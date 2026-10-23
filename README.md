@@ -15,8 +15,8 @@
 
 <img width="543" height="288" alt="image" src="https://github.com/user-attachments/assets/07242be2-d3c4-49d2-99de-1260eb352d4b" />
 
-### 工具使用教程
-
+### 工具使用教程【必看】
+https://my.feishu.cn/wiki/Og5Pwh0RrinGdbkl5T0cUcjznvh
 ### 如何安装使用？
 今天就教大家一个无需安装额外软件、支持Windows和Macos系统 相对简单的方法
 <img width="469" height="776" alt="image" src="https://github.com/user-attachments/assets/3293a3b6-9cc3-4ad8-a6ec-9d41ab10dc16" />
