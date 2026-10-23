@@ -7,10 +7,12 @@
 -   离线学习：在没有网络的环境（比如地铁、飞机上）也能随时观看
 -   二次加工：可以截取关键片段做笔记，或者用剪辑软件制作学习素材
 <img width="470" height="189" alt="image" src="https://github.com/user-attachments/assets/2f3e2b47-90f4-4b3f-9666-f33442db1bbf" />
+
 ### 工具下载地址
 知识星球备份助手【浏览器插件】 V3.2.1
 
 工具持续更新【投稿】 可以关注一下公众号：鸭头工具
+
 <img width="543" height="288" alt="image" src="https://github.com/user-attachments/assets/07242be2-d3c4-49d2-99de-1260eb352d4b" />
 
 ### 工具使用教程
