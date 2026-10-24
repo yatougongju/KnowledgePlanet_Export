@@ -34,7 +34,7 @@ https://my.feishu.cn/wiki/Og5Pwh0RrinGdbkl5T0cUcjznvh
 
 - 一台 Windows 或 Mac 电脑
 - 已安装 Edge 或 Chrome 浏览器（或其他基于Chromium的浏览器）
-- 能够正常打开目标会议的回放链接
+  
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6d828ece-1759-4166-9231-963d093c2597" />
 
 <img width="1688" height="519" alt="image" src="https://github.com/user-attachments/assets/e9f9ba0b-1d93-49dc-80e6-b1a1b47dee3b" />
@@ -48,5 +48,5 @@ https://my.feishu.cn/wiki/Og5Pwh0RrinGdbkl5T0cUcjznvh
 - 此方法仅适用于个人学习、复习目的，请勿将下载的视频用于商业用途或公开传播，尊重内容创作者的版权。
 - 视频文件可能较大，下载时请保持网络稳定。
 - 该插件仅用于个人学习、复习，请勿将下载的视频用于商业用途或公开传播。
-- 以上就是腾讯会议云录制回放视频的下载方法，全程简单无痕、无需安装不明软件，只要一个浏览器就能完成。希望对你有所帮助！
+- 以上就是知识星球帖子的批量下载方法，全程简单无痕、无需安装不明软件，只要一个浏览器就能完成。希望对你有所帮助！
 
